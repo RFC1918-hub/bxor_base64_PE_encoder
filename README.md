@@ -16,4 +16,6 @@ Taking inspiration from https://github.com/chrismeistre/winpeas-encoder
 
 **Namespace example:** 
 
+```
 [winPEAS.Program]::Main("")
+```
